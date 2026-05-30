@@ -11,7 +11,7 @@
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═╝╚══════╝╚═╝░░░░░
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🔐+Cyber+Security+%26+CTF+Player;🌐+Laravel+%7C+React+%7C+Next.js+Developer;🐍+Python+Programmer;🛰️+Network+Programming+Enthusiast;💼+IT+Consultant+%7C+Problem+Solver;🚩+Root+or+die+trying!" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Cyber+Security+%26+CTF+Player;%F0%9F%8C%90+Laravel+%7C+React+%7C+Next.js+Developer;%F0%9F%90%8D+Python+Programmer;%F0%9F%9B%B0%EF%B8%8F+Network+Programming+Enthusiast;%F0%9F%92%BC+IT+Consultant+%7C+Problem+Solver;%F0%9F%9A%A9+Root+or+die+trying!" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -189,6 +189,8 @@ $ cat ctf_mindset.txt
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=aziiemuth&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+> *Jika trophy tidak muncul, coba: `https://github-trophies.vercel.app/?username=aziiemuth&theme=matrix&no-frame=true&no-bg=true`*
 
 </div>
 
