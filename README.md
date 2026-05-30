@@ -104,7 +104,7 @@ $ echo "CTF Journey"
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aziiemuth&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aziiemuth&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aziiemuth&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
 
@@ -114,7 +114,7 @@ $ echo "CTF Journey"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/athiief)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aziiemuth)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/athiief)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athiief@gmail.com)
 
