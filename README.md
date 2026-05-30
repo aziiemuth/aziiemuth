@@ -100,11 +100,11 @@ $ echo "CTF Journey"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athiief&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aziiemuth&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athiief&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aziiemuth&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=athiief&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+![GitHub Streak](https://streak-stats.demolab.com?user=aziiemuth&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
 
@@ -129,6 +129,6 @@ $ echo "Thanks for visiting!"
 > "The quieter you become, the more you can hear." — Kali Linux
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=athiief&color=00ff41&style=flat-square&label=visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=aziiemuth&color=00ff41&style=flat-square&label=visitors)
 
 </div>
