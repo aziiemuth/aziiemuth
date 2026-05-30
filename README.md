@@ -100,9 +100,10 @@ $ echo "CTF Journey"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aziiemuth&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aziiemuth&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aziiemuth&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aziiemuth&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aziiemuth&theme=github_dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aziiemuth&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
