@@ -188,9 +188,8 @@ $ cat ctf_mindset.txt
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=aziiemuth&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10)
+![Trophy](https://github-trophies.vercel.app/?username=aziiemuth&theme=matrix&no-frame=true&no-bg=true)
 
-> *Jika trophy tidak muncul, coba: `https://github-trophies.vercel.app/?username=aziiemuth&theme=matrix&no-frame=true&no-bg=true`*
 
 </div>
 
